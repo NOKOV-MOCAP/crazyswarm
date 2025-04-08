@@ -17,6 +17,6 @@ The documentation is available here: http://crazyswarm.readthedocs.io/en/latest/
 git clone https://github.com/NOKOV-MOCAP/crazyswarm.git --recursive
 cd crazyswarm/ros_ws/
 catkin_make
-source devel setup.bash
+source devel/setup.bash
 roslaunch crazyswarm hover_swarm.launch 
 ```
